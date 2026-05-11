@@ -78,7 +78,7 @@ if (query.minPrice || query.maxPrice) {
 5. In terms of code what is the difference between `put` and `patch`
 
 ## Exercise
-Do a repo of your own to represent whatever you want as long as it has four fields (data members), make sure that your program has the "same" API routes and to provide test data. The README file should have screenshots of using all API routes, either by using Postman, or by modifying `index.html` to have all the operations.
+Do a repo of your own to represent whatever you want as long as it has four fields (data members), make sure that your program has the "same" API routes and to provide test data. The README file should have screenshots of using all API routes, either by using Postman, or by modifying `index.html` to have all the operations. Also, add the answers to the questions on your README.
 
 If you don't want to think about the object, you can do books: name, author, year, price.
 
